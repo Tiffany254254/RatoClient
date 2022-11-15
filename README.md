@@ -1,2 +1,2 @@
-# RatoClient
-An plugin on DDRaceNetwork to manage commands and binds easily.
+# Rato Client🐭
+An plugin on DDRaceNetwork to manage commands, binds and accounts easily.
