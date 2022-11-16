@@ -1,0 +1,9 @@
+[] finish the project's main modules list
+[] make a discord server
+[] make a decent GUI with only the ingame console
+[] get pepole to contribute/test
+[] get more time to work on the plugin
+[] organize github page
+[] installer (using powershell?)
+[] make an faq
+[] publish the first public release
