@@ -1,3 +1,4 @@
+# main goals
 [] finish the project's main modules list
 [] make a discord server
 [] make a decent GUI with only the ingame console
@@ -7,3 +8,6 @@
 [] installer (using powershell?)
 [] make an faq
 [] publish the first public release
+
+##secondary goals
+[]powershell output
