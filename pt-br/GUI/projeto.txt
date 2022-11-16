@@ -1,0 +1,59 @@
+# final de cada arquivo: "rato 🐭 | feito com Ψ por Tiffany"
+echo rato 🐭
+
+#### 00//introdução
+
+#00/welcome
+echo ----------------------------->
+echo bem vindo(a) ao Rato Client!
+
+#00/'intro'
+echo ------------------------------>
+echo Este 'client' é uma série de binds feitas com a intenção de ajudar
+echo quem o usa, com módulos diversos para alterar rapidamente configurações
+echo do seu jogo ou fazer ações como rodar um comando no chat, dar
+echo /kill, mudar de servidor etc.
+
+#00/aviso
+echo ------------------------------>
+echo AVISO: Este projeto tem como objetivo apenas ser um plugin para o usuário
+echo gerir suas opções fácilmente, não se tratando de um "client" de fato, pois
+echo não modifica o jogo em si, apenas suas configurações e coisas que possam
+echo ser alteradas pelo console por meio de comandos, ou seja, pode ser sim con-
+echo siderado "Legit"(sem dar uma vantagem ao jogador como cheats)
+
+#01/gui(módulos)
+
+echo ----------------------------->
+echo Módulos | 00. Início
+
+echo ----------------------------->
+echo Conta / Perfil
+echo ->
+
+echo ----------------------------->
+echo Configurações do DDNet
+echo ->
+
+#01/categorias
+echo
+
+#
+
+#### 0c//créditos
+
+#0c/agradecimentos
+echo Muito obrigada a cada um que fez esse projeto ser possível, seja
+echo contribuindo, testando ou apenas acompanhando-o.
+
+################################################################################
+################################################################################
+//Lista de módulos
+# team 1/2
+# por Gamez
+
+#bind x "say /team 1; say /team 2"
+bind("x") {
+say /team 1;
+say /team 2
+}
